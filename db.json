@@ -1,0 +1,15 @@
+{
+  "posts": [
+          {
+              "id": 1,
+              "label":"learn Angular",
+              "completed":false
+  
+          },
+          {
+              "id": 2,
+              "label":"learn React",
+              "completed":true 
+          }
+]
+}
